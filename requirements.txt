@@ -1,0 +1,7 @@
+jupyterlab
+ipympl
+pandas
+numpy
+falcon
+gunicorn
+requests
