@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katsar0v/self-updating-dashboard-with-voila/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katsar0v/self-updating-dashboard-with-voila/master?urlpath=voila%2Frender%2Fdashboard.ipynb)
 
 # Self-updating Voila Dashboard Example
 
