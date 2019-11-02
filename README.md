@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katsar0v/self-updating-dashboard-with-voila/master)
+
 # Self-updating Voila Dashboard Example
 
 This is an example to create a self-updating dashboard, which gets data from an api interface.
