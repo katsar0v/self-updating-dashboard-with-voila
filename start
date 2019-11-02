@@ -1,0 +1,7 @@
+#!/bin/bash
+# 
+# Info: This is an entrypoint for mybinder.org
+
+gunicorn api:app -b 127.0.0.1:9999 --daemon
+
+exec "$@"
