@@ -32,3 +32,5 @@ voila dashboard.ipynb
 ```
 
 This will open a new browser tab at http://localhost:8866 serving the dashboard.
+
+Do not forget to run `jupyter labextension install @jupyter-widgets/jupyterlab-manager` if testing in JupyterLab.
